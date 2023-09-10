@@ -10,3 +10,4 @@ celery.sqlite
 .ipynb_checkpoints/Week2-0-checkpoint.ipynb
 .ipynb_checkpoints/Week2-1-checkpoint.ipynb
 celery.sqlite
+celery.sqlite
