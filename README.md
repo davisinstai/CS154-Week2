@@ -1,1 +1,1 @@
-# CS154-Week2
+# CS154 Week 2 Class Notes and Review (Homework)
